@@ -40,3 +40,4 @@
 
 ---
 ※本理論のテクノロジー・AIへの適用および展望については [02_ai_implementation.md](02_ai_implementation.md) を参照。
+※「真の部分」からの乖離とパターン形成、大枠と小枠については [03_true_self_and_frames.md](03_true_self_and_frames.md) を参照。
