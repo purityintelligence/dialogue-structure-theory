@@ -56,3 +56,4 @@
 
 ---
 ※3層構造の定義については [01_dialogue_theory.md](01_dialogue_theory.md)、AIへの適用の展望については [02_ai_implementation.md](02_ai_implementation.md) を参照。
+※掘らずに見続ける方法論については [04_non_digging_method.md](04_non_digging_method.md) を参照。
