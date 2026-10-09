@@ -51,3 +51,4 @@
 
 ---
 ※3層構造の定義については [01_dialogue_theory.md](01_dialogue_theory.md)、AIへの適用の展望については [02_ai_implementation.md](02_ai_implementation.md)、「真の部分」と大枠・小枠については [03_true_self_and_frames.md](03_true_self_and_frames.md) を参照。
+※AIの左脳的傾向と圧縮しない全体把握については [05_ai_left_brain_tendency.md](05_ai_left_brain_tendency.md) を参照。
